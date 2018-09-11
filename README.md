@@ -19,7 +19,7 @@ Third three
 
 
 
-The app is a root and has a sons home, three
+The app is a root and has a son home and three
 
 
 And you call them
