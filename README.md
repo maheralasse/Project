@@ -1,6 +1,8 @@
 # MyApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
+
+
 The program calculates a second-order equation of the form ax²+bx+c=0
 
 ## three components
