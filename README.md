@@ -37,12 +37,15 @@ Css was included in the following files too:
 
 app.component.css
 
-## Run pro
-To run the program from the scr file the index.html page
 
 home.component.css
 
 
 three.component.css
+
+## Run project
+To run the program from the scr file the index.html page
+
+
 
 
