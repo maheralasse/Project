@@ -43,8 +43,6 @@ home.component.css
 
 three.component.css
 
-## Run project
-To run the program from the scr file the index.html page
 
 
 
